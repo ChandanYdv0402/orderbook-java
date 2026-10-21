@@ -1,0 +1,10 @@
+.gradle/
+build/
+out/
+.idea/
+*.iml
+.DS_Store
+# ITCH sample files are several GB — never commit them
+data/
+*.itch
+*.gz
